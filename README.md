@@ -153,10 +153,12 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
- **Deepak Kumar Thakur
- **dk1816859@gmail.com
+**Deepak Kumar Thakur
+
+email:dk1816859@gmail.com
+
 **Ayush Singh
-**GitHub: https://github.com/AyushSingh2901
+GitHub: https://github.com/AyushSingh2901
 
 ---
 
