@@ -144,6 +144,15 @@ Typical fake news detection systems rely on **text-based classification using la
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
+##Contributors
+**Ayush Singh**
+
+GitHub: https://github.com/AyushSingh2901
+
+**Nikhil Singh**
+
+Github: https://github.com/Nikhil19singh
+
 ---
 
 ## 📄 License
@@ -157,13 +166,6 @@ This project is licensed under the MIT License.
 
 email:dk1816859@gmail.com
 
-**Ayush Singh**
-
-GitHub: https://github.com/AyushSingh2901
-
-**Nikhil Singh**
-
-Github: https://github.com/Nikhil19singh
 
 ---
 
